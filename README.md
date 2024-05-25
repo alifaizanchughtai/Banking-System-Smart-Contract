@@ -1,4 +1,4 @@
-# Smart Contract Banking System
+# Banking System Smart Contract
 
 This repository contains a smart contract implemented in Solidity that serves as a decentralized banking system. The smart contract allows users to create accounts, deposit funds, withdraw funds, transfer funds, take and repay loans, and check balances securely on the Ethereum blockchain.
 
